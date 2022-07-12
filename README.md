@@ -15,4 +15,6 @@
 
 ![image](https://github.com/asoral/hr_extended/raw/master/citycat.png)
 
+![image](https://github.com/asoral/hr_extended/raw/master/extype.png)
+
 
