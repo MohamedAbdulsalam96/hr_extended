@@ -1,0 +1,53 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:city_tier",
+ "creation": "2022-07-02 15:06:53.780503",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "city_tier",
+  "city"
+ ],
+ "fields": [
+  {
+   "fieldname": "city",
+   "fieldtype": "Table",
+   "label": "City",
+   "options": "City Category Child Table",
+   "reqd": 1
+  },
+  {
+   "fieldname": "city_tier",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "City Tier",
+   "reqd": 1,
+   "unique": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-07-04 12:23:49.970973",
+ "modified_by": "Administrator",
+ "module": "HrExtended",
+ "name": "City Category",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}
