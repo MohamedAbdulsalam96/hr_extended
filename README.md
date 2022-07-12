@@ -13,3 +13,6 @@
 
 * Created new doctype "City Category" for classification.
 
+![image](https://github.com/asoral/hr_extended/raw/master/citycat.png)
+
+
