@@ -15,6 +15,8 @@
 
 ![image](https://github.com/asoral/hr_extended/raw/master/citycat.png)
 
+* Added a select field for expense category and a table describing expense limit details as per city category in "Expense Claim Type".
+
 ![image](https://github.com/asoral/hr_extended/raw/master/extype.png)
 
 
