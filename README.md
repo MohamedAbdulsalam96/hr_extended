@@ -6,3 +6,10 @@
   `bench get-app https://github.com/asoral/hr_extended`
 </p>
 <h3>Workflow</h3>
+
+* Multiselect field added for allowed expenses in "Employee Grade".
+
+![image](https://github.com/asoral/hr_extended/raw/master/empgrade.png)
+
+* Created new doctype "City Category" for classification.
+
