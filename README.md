@@ -4,6 +4,9 @@
 <p>
   
   `bench get-app https://github.com/asoral/hr_extended`
+  <br><br>
+  `bench --site sitename install-app hr_extended`
+  
 </p>
 <h3>Workflow</h3>
 
